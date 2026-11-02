@@ -5,7 +5,7 @@ board-legible financial decision using FAIR-aligned Monte Carlo simulation
 on live FIRST.org and CISA telemetry.
 
 **Live app:** https://fairpulse.streamlit.app
-**Author:** Your Name · [LinkedIn](https://www.linkedin.com/in/you/)
+**Author:** Craig C. Manohar · [LinkedIn](https://www.linkedin.com/in/craig-c-manohar-863b252b5/)
 
 ## What it does
 
@@ -27,8 +27,3 @@ not a loss forecast. It does not model correlated loss events, reputational
 cascade, regulatory fines, or litigation. Control maturity is a normalized
 proxy, not a measured effectiveness.
 
-## Run locally
-
-```bash
-pip install streamlit requests numpy plotly
-streamlit run app.py
