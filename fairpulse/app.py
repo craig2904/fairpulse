@@ -693,3 +693,11 @@ with footer_right:
     )
     st.caption("Global / remote · Live application availability depends on the Streamlit Community Cloud deployment and its upstream data sources.")
 st.caption("FairPulse provides illustrative decision support. Validate asset exposure, threat assumptions, control effectiveness, loss estimates and legal applicability with qualified stakeholders before relying on results.")
+st.markdown(
+    "<div style='text-align:center; color:#7B8494; font-size:12px; "
+    "padding:18px 0 8px 0;'>"
+    "© 2026 Craig C. Manohar. All rights reserved. "
+    "Built with purpose."
+    "</div>",
+    unsafe_allow_html=True
+)
